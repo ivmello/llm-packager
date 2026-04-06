@@ -1,9 +1,3 @@
-Perfeito, Igor. Um bom `README.md` é o que separa um "script útil" de uma ferramenta interna profissional que você e seu time na MadeiraMadeira podem usar com confiança.
-
-Aqui está uma estrutura completa e moderna para o seu projeto:
-
----
-
 # README.md
 
 ````markdown
